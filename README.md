@@ -6,7 +6,8 @@
 
 Currently just started my journey in Full Stack.  :rocket:
 
-So, let's see how much I can develop myself for the next 6 months! :running::dash: :walking::thought_balloon:
+So, let's see how much I can develop myself for the next 6 months! 
+:running::dash: :walking::thought_balloon:
 
 
 
